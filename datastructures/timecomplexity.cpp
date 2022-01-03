@@ -15,8 +15,11 @@ n^2 is to be written as n*n.
 n^n can be written as it is.
 
 For functions taking arrays as input ,consider n as size of array.
-
-Try to solve the tasks without looking at answers, even if testcases fail.This makes sure you are learning really.
+Helpful Links : (Go through these before starting lesson, Copy Paste links)
+•https://www.youtube.com/watch?v=PFd5s0bHgAQ
+•https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/tutorial/
+•http://discrete.gr/complexity/
+•Robert Sedgewick's Algorithms(4th edition)
 */
 
 #include<stdio.h>
